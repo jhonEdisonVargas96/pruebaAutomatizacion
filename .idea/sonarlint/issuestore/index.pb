@@ -20,3 +20,13 @@ Ssrc/test/java/com/prueba/stepdefinitions/DemoBlazeAutomatizacionStepDefinition.
 .src/main/java/userinterfaces/PaginaInicio.java,3\0\300bc54b2a1d3e53f78af2303287dca9360021c7
 Y
 )src/main/java/tasks/RealizarRegistro.java,2\2\2253046b63064e20127bde4b49bf77f2d822262d
+V
+&src/main/java/tasks/IniciarSesion.java,e\a\ea990c149447934136aa1f7e3c01bbc2e2b3a76d
+N
+src/main/java/Util/Alerts.java,6\8\6822ee0a6ea5fa926f11a2a0907b60fd35bbb7f2
+T
+$src/main/java/tasks/AcceptAlert.java,e\3\e3e677896817cbfc208f355e5028c871b2983a0a
+W
+'src/main/java/userinterfaces/LogIn.java,c\8\c834ee454b67dd9b08f29268b6561f5e2ab52146
+S
+#src/main/java/questions/TextOf.java,f\4\f4b407dc6b48d1c6a5b6d11f9949ea2b14b6b304

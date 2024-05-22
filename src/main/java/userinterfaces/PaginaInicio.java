@@ -11,4 +11,6 @@ public class PaginaInicio extends PageObject {
 
     public static final Target PASSWORD = Target.the("password").locatedBy("id:sign-password");
 
+    public static final Target REGISTER = Target.the("Register").locatedBy("//*[@id=\"signInModal\"]/div/div/div[3]/button[2]");
+
 }

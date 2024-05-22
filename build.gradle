@@ -14,7 +14,6 @@ dependencies {
     implementation("org.seleniumhq.selenium:selenium-java:3.141.59")
     testImplementation ('net.serenity-bdd:serenity-core:2.1.6')
     testImplementation ('net.serenity-bdd:serenity-junit:2.1.6')
-    //testImplementation (group: 'org.slf4j', name: 'slf4j-api', version: '1.7.7')
     testImplementation ('junit:junit:4.11')
     testImplementation (group: 'org.assertj', name: 'assertj-core', version: '3.15.0')
     implementation (group: 'net.serenity-bdd', name: 'serenity-core', version: '2.1.6')

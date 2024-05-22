@@ -5,6 +5,6 @@ Característica: Automatización flujo página demoblaze
 
   Escenario: Realizar un registro e inicio de sesión
     Dado que me conecto a la pagina "https://www.demoblaze.com/index.html"
-    Cuando me registro con "jhonedison" y "1234"
-    Y me logueo con los datos
-    Entonces puedo ver el mensaje "Welcome jhonedison"
+    Cuando me registro con "jhonedison012" y "1234"
+    Y me logueo con los datos "jhonedison012" y "1234"
+    Entonces puedo ver el mensaje "Welcome jhonedison012"
